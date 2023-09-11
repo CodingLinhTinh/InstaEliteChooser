@@ -6,6 +6,7 @@
 
 ## 🧐 Authors
 **Author**: Ngoc Quach Bao (Nicole Quach) - 20520655
+
 **Coop**: Thi - 20521941
 
 
