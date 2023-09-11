@@ -1,8 +1,4 @@
 # 📒 InstaEliteChoose
-![GitHub repo size](https://img.shields.io/github/repo-size/CodingLinhTinh/InstaEliteChoose?style=for-the-badge)
-![GitHub language count](https://img.shields.io/github/languages/count/CodingLinhTinh/InstaEliteChoose?style=for-the-badge)
-![GitHub forks](https://img.shields.io/github/forks/CodingLinhTinh/InstaEliteChoose?style=for-the-badge)
-![GitHub open issues](https://img.shields.io/github/issues/CodingLinhTinh/InstaEliteChoose?style=for-the-badge)
 
 ## Description
 > This web app, built with Streamlit, fetches user information from Instagram based on a username and related keywords, providing a user-friendly interface for displaying and downloading the data, and ranking the user data.
